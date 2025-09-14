@@ -464,7 +464,7 @@ export default function BookAppointmentPage() {
                     <Mail className="w-5 h-5 text-green-400" />
                     <div>
                       <p className="font-medium text-white">Email</p>
-                      <p className="text-sm text-slate-300">ithelpdesk@aiimsjammu.edu.in</p>
+                      <p className="text-sm text-slate-300">ithelpdesk@Hospital Medical Information System (HMIS)jammu.edu.in</p>
                     </div>
                   </div>
                   <div className="flex items-center space-x-3">
@@ -525,3 +525,4 @@ export default function BookAppointmentPage() {
     </div>
   )
 }
+
