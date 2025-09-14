@@ -199,13 +199,13 @@ export default function SuperAdminPage() {
             <div className="flex items-center space-x-3">
               <Image
                 src="/images/aiims-logo.png"
-                alt="AIIMS Jammu Logo"
+                alt="Hospital Medical Information System (HMIS)Jammu Logo"
                 width={44}
                 height={44}
                 className="rounded-full border border-purple-200"
               />
               <div className="flex flex-col leading-tight">
-                <span className="text-lg font-bold text-purple-800">AIIMS Jammu</span>
+                <span className="text-lg font-bold text-purple-800">Hospital Medical Information System (HMIS)Jammu</span>
                 <span className="text-xs text-gray-600 font-medium">Super Admin Dashboard</span>
               </div>
             </div>
@@ -611,3 +611,4 @@ export default function SuperAdminPage() {
     </div>
   )
 }
+
