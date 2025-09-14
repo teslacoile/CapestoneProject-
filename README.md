@@ -1,5 +1,5 @@
- Hospital Medical Information System (HMIS)
-This project is a web-based Hospital Medical Information System for AIIMS Jammu, designed to streamline appointment booking and provide comprehensive dashboards for different user roles. It features a modern, responsive UI and a robust backend for managing user data and appointments.
+Hospital Medical Information System (HMIS)
+This project is a web-based Hospital Medical Information System designed to streamline appointment booking and provide comprehensive dashboards for different user roles. It features a modern, responsive UI and a robust backend for managing user data and appointments.
 
 Features
 User Authentication: Secure sign-in and sign-up with role-based access control.
